@@ -62,10 +62,10 @@ Ao longo dos anos, trabalhei em diversos projetos, desenvolvendo desde aplicaç�
 
 Aqui estão alguns dos projetos pessoais nos quais trabalhei recentemente:
 
-1. **[Projeto 1](https://github.com/jailson273/biblia):** Bíblia online, com busca por livro, capítulo e versículo.
-2. **[Projeto 2](https://github.com/jailson273/whatnote):** Encontrar o campo harmônico de cada nota e as principais progressões de cada campo.
-3. **[Projeto 3](https://github.com/jailson273/persona-quest):** Realiza o teste da linguagem do amor, baseado no livro "As 5 Linguagens do Amor".
-4. **[Projeto 3](https://github.com/jailson273/verbs-irregular):** Treinar os principais verbos irregulares em inglês.
+1. **[Bíblia](https://github.com/jailson273/biblia):** Bíblia online, com busca por livro, capítulo e versículo.
+2. **[Qual Nota?](https://github.com/jailson273/whatnote):** Encontrar o campo harmônico de cada nota e as principais progressões de cada campo.
+3. **[Linguagem do Amor](https://github.com/jailson273/persona-quest):** Realiza o teste da linguagem do amor, baseado no livro "As 5 Linguagens do Amor".
+4. **[Verbos irregulares](https://github.com/jailson273/verbs-irregular):** Treinar os principais verbos irregulares em inglês.
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato caso tenha alguma pergunta ou queira colaborar em algum projeto. Estou sempre aberto a novas oportunidades e desafios!
 
